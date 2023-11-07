@@ -1,5 +1,3 @@
-from turtle import bgcolor
-from pyparsing import col
 import streamlit as st
 import pandas as pd
 from joblib import load
