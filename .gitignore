@@ -3,3 +3,5 @@ agriculture.csv
 agriculture.zip
 
 .vscode/
+
+venv/
